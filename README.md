@@ -1,5 +1,6 @@
 # Ultimate-Tic-Tac-Toe-using-AlphaZero
 Ultimate Tic Tac Toe using the AlphaZero algorithm
+
 This is my senior project made by me and my teammates as a computer science student in National Taipei University. In this project, our target is to research how classical games are mastered by the Alphazero program and to do so, we have chosen Ultimate Tic Tac Toe as a medium-to-hard level game to be our main subject. The whole project is written using Python.
 
 Introduction to Alphazero:
