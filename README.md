@@ -25,4 +25,4 @@ This project consists of 8 main programs:
 
 Added feature: dynamic simulation in pv_mcts. previously, pv_mcts simulates the legal moves for a fixed number of iteration, now it uses a simple algorithm to minimize the number of iteration. This is efficient for self play because each game now takes a faster time to finish.
 
-NOTE: this project is still ongoing
+[uttt_screenshot]: images/uttt_screenshot.png
