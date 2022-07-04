@@ -1,6 +1,10 @@
 # Ultimate-Tic-Tac-Toe-using-AlphaZero
 Ultimate Tic Tac Toe using the AlphaZero algorithm
 
+## About the project
+
+![UTTT screenshot][uttt_screenshot]
+
 This is my senior project made by me and my teammates as a computer science student in National Taipei University. In this project, our target is to research how classical games are mastered by the Alphazero program and to do so, we have chosen Ultimate Tic Tac Toe as a medium-to-hard level game to be our main subject. The whole project is written using Python.
 
 Introduction to Alphazero:
@@ -21,4 +25,4 @@ This project consists of 8 main programs:
 
 Added feature: dynamic simulation in pv_mcts. previously, pv_mcts simulates the legal moves for a fixed number of iteration, now it uses a simple algorithm to minimize the number of iteration. This is efficient for self play because each game now takes a faster time to finish.
 
-NOTE: this project is still ongoing
+[uttt_screenshot]: images/uttt_screenshot.png
