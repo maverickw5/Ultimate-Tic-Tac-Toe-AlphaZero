@@ -50,5 +50,7 @@ Run demo.py
  
 ![Demo screenshot][demo_screenshot]
 
+Note: To restart the game, click the red space in the bottom
+
 [uttt_screenshot]: images/uttt_screenshot.png
 [demo_screenshot]: images/demo_screenshot.png
