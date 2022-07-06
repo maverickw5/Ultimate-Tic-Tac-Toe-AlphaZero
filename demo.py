@@ -4,7 +4,7 @@ from tensorflow.keras.models import load_model
 import tkinter as tk
 import timeit
 
-model = load_model('./model/BestModel.h5')
+model = load_model('./model/best.h5')
 
 class UI(tk.Frame):
     def __init__(self, master=None, model=None):
