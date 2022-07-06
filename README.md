@@ -50,7 +50,9 @@ Run demo.py
  
 ![Demo screenshot][demo_screenshot]
 
-Note: To restart the game, click the red space in the bottom
+Note: To restart the game, click the red space in the bottom\
+
+Any questions or contributions, email me @maverickwoentono5@gmail.com
 
 [uttt_screenshot]: images/uttt_screenshot.png
 [demo_screenshot]: images/demo_screenshot.png
