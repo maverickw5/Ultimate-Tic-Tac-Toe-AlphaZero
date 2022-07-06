@@ -42,6 +42,7 @@ Notes:
 
 ## Play against the model
 Open command prompt and make sure the directory is in this repo's folder
+
 Run demo.py
  ```sh
  python demo.py
